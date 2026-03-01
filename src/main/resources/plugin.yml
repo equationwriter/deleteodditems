@@ -1,0 +1,5 @@
+name: DeleteOddPickup
+version: 1.0.0
+main: me.max.deleteoddpickup.DeleteOddPickup
+api-version: "1.21"
+description: Deletes items on pickup if their name length is odd.
